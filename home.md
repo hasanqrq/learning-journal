@@ -7,7 +7,7 @@
 ## Styling text
 
 ### We could use (** **) for 
-** Bold text. **
+**Bold text**
 ### And (* *) for *italic* text.
 
 ## links

@@ -1,11 +1,15 @@
-### hasan24ltuc
-## learning to code project
- ### Welcome to my website
+# The basics of markdown
 
+## Headings
 
-Markdown is a method or a way to style text on the web. You can control the view of the document, put words into format and do many things in Markdown. 
+### we could use the heading by using # symbols before your heading text.Adding more #will catagorize the heading from one to six.
 
-it consisted of 
+## Styling text
 
-text :
-we can make the text  **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+### We could use (** **) for 
+** Bold text.
+And (* *) for italic text.
+
+## links
+
+### we could use brackets for links like [Google] (www.google.com)

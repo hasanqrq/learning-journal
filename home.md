@@ -8,8 +8,16 @@
 
 ### We could use (** **) for 
 ** Bold text.
-And (* *) for italic text.
+### And (* *) for *italic* text.
 
 ## links
 
 ### we could use brackets for links like [Google] (www.google.com)
+
+
+## Lists
+
+### We could using list by adding { - or * }
+- Hasan
+- Shihab
+- tamim

@@ -2,6 +2,8 @@
 
 ## A growth mindset is a concept that concludes that the person can improve himself by practice and do effort, and he should focus on his abilities and gifts. 
 
+
+
 ### 1. Challenges
 The challenges that I face , push me up to continue ahead and cross these challenges and benefit myself from them.
 

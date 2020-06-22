@@ -8,7 +8,7 @@
 ###for <h3> tag
 
 ## customize
- ### * text in italic*
+ ### *text in italic*
 
 ## **text in bold**
 
